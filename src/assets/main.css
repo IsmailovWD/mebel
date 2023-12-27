@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+.n-page-header{
+  padding: 5px 10px;
+  background: rgb(31 41 55 / 1);;
+}
+.n-menu-item-content-header{
+  font-size: 20px !important;
+}
+img{
+  pointer-events: none;
+}
